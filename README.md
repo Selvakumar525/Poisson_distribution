@@ -70,6 +70,7 @@ print("Table value of chi square at 1 level is %4.2f"%table_chi2)
  
 
 # Output : 
+![image](https://user-images.githubusercontent.com/120643262/233154523-86ef80bd-8cac-4459-8c78-5468010eafac.png)
 
 
 
